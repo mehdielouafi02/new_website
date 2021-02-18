@@ -1,0 +1,183 @@
+body {
+    margin-left: 20px;
+    margin-right: 0px;
+
+}
+nav{
+    position: absolute;;
+    width: 100%;
+    height: 70px;
+background-color:skyblue;
+font-family: Arial;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+nav li {
+padding: 0;
+display: inline;
+}
+nav li a {
+    display: inline-block;
+    color:blanchedalmond;
+    text-decoration: none;
+    padding: 14px 16px;
+    text-align: center;
+}
+nav li a:hover {
+    background-color: cornflowerblue;
+}
+nav li a :active {
+    background-color: cyan;
+}
+
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.image2 {
+
+width: 100%;
+
+}
+.Aphrodite {
+
+position: absolute;
+left: 20px;
+top: 1700px;
+
+
+}
+
+
+
+
+.image3 {
+    width: 100%;
+
+}
+
+.athena  {
+    position: absolute;
+    left: 20px;
+    top: 2500px;
+  
+}
+.image4 {
+width: 100%;
+
+}
+
+.poseidon {
+    position:absolute;
+    left: 20px;
+    top: 3450px;
+
+}
+.image5 {
+width: 100%;
+
+}
+.zeus {
+position: absolute;
+left: 20px;
+top: 5700px;
+
+
+}
+
+
+#About  {
+    margin: 2px 5px;
+}
+iframe {
+    margin-left: 130px;
+}
+#Contact { 
+    margin: 20px;
+    padding:16px;
+    background-color: blanchedalmond;
+}
+#Contact>input,label{ 
+   display:inline
+}
+input [type="text"] , input [type="number"] , input [type="email"]  ,textarea {
+   width: 100%;
+   margin: 5px 0px;
+   border: none;
+
+   background-color:#f1f1f1;
+
+}
+h1 {
+    font-size: 30px;
+}
+a {
+    color:royalblue;
+     text-decoration: underline;
+}
+a:hover {
+    color: cornsilk;
+    text-decoration:none;
+}
+h2 {
+    font-size: 30px;
+    
+}
+
+
+p {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 30px;
+}
+    
+h4  {
+    font-size: 30px;
+
+}
+
+h5 {
+    font-size: 30px;
+}
+h6 {
+    font-size: 30px;
+}
+.card {
+
+    width: 300px;
+    height: 400px;
+    padding: 15px;
+    
+    display: flex;
+    
+    flex-direction: column;
+    
+    justify-content: space-between;
+    
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    
+    }
+    
+    #cards {
+    
+    display: flex;
+    justify-content: space-around;
+    
+    
+    
+    }
+    
+    #card2 {
+    
+    background-color: crimson;
+    
+    }
