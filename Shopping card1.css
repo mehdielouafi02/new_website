@@ -1,0 +1,286 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    background-image: url('../res/jason-leung-479251-unsplash.jpg');
+    
+     
+    
+    }
+    
+    
+    header 
+    {
+    
+    display:flex;
+    justify-content: space-around;
+    background-color:white;
+    position: sticky;
+    top: 0;
+    opacity: 0.8;
+    
+    }
+    
+   
+    
+    .image_delete
+    
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    
+    #logo{
+    
+        display: flex;
+        
+        }
+    
+    section {
+    
+    
+    margin-left: 20px;
+    
+    display: flex;
+    height: 300px;
+    margin-top: 100px;
+    }
+    
+    section img {
+    
+    height: 150px;
+    margin-right: 20px;
+    
+    border: 1px black solid;
+    
+    
+    }
+    
+    
+    .descriptionarticle{
+    
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    
+    }
+    
+    .quantity{
+    
+    display: flex;
+    margin-bottom: 10px;
+    
+    }
+    
+    .plus 
+    
+    {
+       margin-left: 20px;
+       margin-right: 3px;
+       height: 30px;
+       width: 30px;
+      opacity: 0.8;
+      color: aliceblue;
+      background-color: green;
+    }
+    
+    .buttons{
+    
+    position: relative;
+    top: 100px;
+    
+    }
+    .moins{
+    
+    
+    height: 30px;
+    width: 30px;
+    opacity: 0.8;
+    background-color: red;
+    color:seashell;
+    
+    }
+    
+    .inp{
+    
+    
+    width: 30px;
+    
+    
+    }
+
+    
+    .delete {
+    
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 100px;
+    
+    }
+    
+    #Athena img
+    
+    {
+    
+    width: 350px;
+    
+    }
+    .buttons{
+    
+        position: relative;
+        top: 100px;
+        
+        }
+        
+        
+        .moins{
+        
+        
+        height: 30px;
+        width: 30px;
+        opacity: 0.8;
+        background-color: red;
+        color:seashell;
+        
+        }
+        
+        .inp{
+        
+        
+        width: 30px;
+        
+        
+        }
+    
+        .delete {
+        
+        margin-top: 20px;
+        margin-bottom: 50px;
+        width: 100px;
+        
+        }
+    #Aphrodite img
+    
+    {
+        width: 350px;
+    
+    }
+    .buttons{
+    
+        position: relative;
+        top: 100px;
+        
+        }
+        
+        
+        .moins{
+        
+        
+        height: 30px;
+        width: 30px;
+        opacity: 0.8;
+        background-color: red;
+        color:seashell;
+        
+        }
+        
+        .inp{
+        
+        
+        width: 30px;
+        
+        
+        }
+        
+        
+        
+        
+        .delete {
+        
+        margin-top: 20px;
+        margin-bottom: 50px;
+        width: 100px;
+        
+        }
+    #Poseidon img
+    
+    {
+    
+    width: 3500px;
+    }
+    .buttons{
+    
+        position: relative;
+        top: 100px;
+        
+        }
+        
+        
+        .moins{
+        
+        
+        height: 30px;
+        width: 30px;
+        opacity: 0.8;
+        background-color: red;
+        color:seashell;
+        
+        }
+        
+        .inp{
+        
+        
+        width: 30px;
+        
+        
+        }
+        
+        
+        
+        
+        .delete {
+        
+        margin-top: 20px;
+        margin-bottom: 50px;
+        width: 100px;
+        
+        }
+    #Zeus img
+    
+    {
+    
+    width: 350px;
+    }
+    .buttons{
+    
+        position: relative;
+        top: 100px;
+        
+        }
+        
+        
+        .moins{
+        
+        
+        height: 30px;
+        width: 30px;
+        opacity: 0.8;
+        background-color: red;
+        color:seashell;
+        
+        }
+        
+        .inp{
+        width: 30px;
+        
+        
+        }        
+        .delete {
+        
+        margin-top: 20px;
+        margin-bottom: 50px;
+        width: 100px;
+        
+        }
+    
